@@ -1,0 +1,18 @@
+:root {
+	/* Colores */
+	--red: #ea5454;
+	--cyan: #44d3d2;
+	--yellow: #fcae4a;
+	--blue: #549ef2;
+	--darkBlue: #4d4f62;
+	--shadow: rgb(131 167 210 / 0.5);
+
+	/* Fuentes */
+	--fontXXS: 0.8125rem;
+	--fontXS: 0.9375rem;
+	--fontS: 1.25rem;
+	--fontM: 1.5rem;
+	--fontL: 2.25rem;
+	--fontLight: 200;
+	--fontBold: 600;
+}
